@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://xxauthorr.github.io/harichandrakishor/**
 
-- ⚡ Fun fact **I need music while coding.**
+- ⚡ Fun fact **I need music and coffee while coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
