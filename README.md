@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Golang,Docker,Kubernetes,Amazon Web Service(AWS),NodeJs,Python**
 
-- 📫 How to reach me **https://xxauthorr.github.io/harichandrakishor/**
+- 📫 How to reach me **https://harichandrakishor.ga**
 
 - ⚡ Fun fact **I need music and coffee while coding.**
 
