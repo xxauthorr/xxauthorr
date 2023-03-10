@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harichandra Kishor</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on **Golang - Gorilla/Gin**
+- 🔭 I’m currently working on **Golang - Microservices**
 
-- 🌱 I’m currently learning **Gorilla,Docker**
+- 🌱 I’m currently using **Docker,DockerSwarm,RPC,RabbitMQ**
 
-- 💬 Ask me about **Golang,Docker,Kubernetes,Amazon Web Service(AWS),NodeJs,Python**
+- 💬 Ask me about **Golang,Docker,Kubernetes,Amazon Web Service(AWS),Jenkins,Microservices**
 
 - 📫 How to reach me **https://harichandrakishor.ga**
 
