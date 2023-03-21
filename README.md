@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harichandra Kishor</h1>
+<h1 align="center">Hi, I'm Harichandra Kishor</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 - 🔭 I’m currently working on **Golang - Microservices**
