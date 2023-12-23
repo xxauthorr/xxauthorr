@@ -12,11 +12,8 @@
 - Check my linkedin [Harichandra Kishor](https://in.linkedin.com/in/harichandra-kishor)
 
 - Ask me about **DevOps - Kubernetes, Docker, GCP, AWS, Nginx, Apache**
-               **Development - Golang, gRPC, NodeJs, Python, gcp sdk implementations**
 
-- How to reach me **https://www.linkedin.com/in/harichandra-kishor**
-
-- Fun fact **I need music while coding.**
+- Fun fact **It's fun to work on server core, Automate things, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
