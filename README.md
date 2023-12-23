@@ -1,15 +1,18 @@
 <h1 align="center">Hi, I'm Harichandra Kishor</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- I’m currently working on **Golang - Microservices**
+- I’m currently working on **Golang - Microservices, GCP - Google Kubernetes Engine**
 
-- I’m currently learning **GRPC, SWAGGER**
+- I’m currently learning **gRPC using Go language, Different levels of automation in GCP**
 
-- My last project [Bootcamper.esports](bootcampers.online)
+- My current project [sellerapp](https://www.sellerapp.com)
 
-- Check my portfolio [https://harichandrakishor.ga](https://harichandrakishor.ga)
+- My last project [savvypool](https://play.google.com/store/search?q=savvypool&c=apps&hl=en-IN)
 
-- Ask me about **Golang,Docker,Kubernetes,Amazon Web Services(AWS),Microservices,Nginx,NodeJs,Python**
+- Check my linkedin [Harichandra Kishor](https://in.linkedin.com/in/harichandra-kishor)
+
+- Ask me about **DevOps - Kubernetes, Docker, GCP, AWS, Nginx, Apache
+                 Development - Golang, gRPC, NodeJs, Python, gcp sdk implementations**
 
 - How to reach me **https://www.linkedin.com/in/harichandra-kishor**
 
