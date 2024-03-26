@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer</h3>
 <br>
 
-- I’m currently working on **Golang - Microservices, GCP **
+- I’m currently working on **Golang - Microservices, GCP**
 
 - I’m currently learning **gRPC using Go language, Different levels of automation in GCP**
 
