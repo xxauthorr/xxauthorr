@@ -8,7 +8,7 @@
 
 - My current project [sellerapp](https://www.sellerapp.com)
 
-- My last project [savvypool](https://play.google.com/store/search?q=savvypool&c=apps&hl=en-IN)
+- My last project [savvypool](https://play.google.com/store/apps/details?id=com.savvypool.savvypool&pcampaignid=web_share)
 
 - Check my linkedin [Harichandra Kishor](https://in.linkedin.com/in/harichandra-kishor)
 
