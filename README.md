@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Harichandra Kishor</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">A passionate DevOps Engineer & Backend Dev</h3>
 <br>
 
-- I’m currently working on **Golang - Microservices, GCP**
+- I’m currently working on **Golang - gRPC, GCP, AWS, Kubernetes, Workflows**
 
-- I’m currently learning **gRPC using Go language, Different levels of automation in GCP**
+- I’m currently learning **gRPC using Go language, Different levels of automation in GCP, Data Science**
 
 - My current project [sellerapp](https://www.sellerapp.com)
 
@@ -12,7 +12,7 @@
 
 - Check my linkedin [Harichandra Kishor](https://in.linkedin.com/in/harichandra-kishor)
 
-- Ask me about **DevOps - Kubernetes, Docker, GCP, AWS, Nginx, Apache, CICD**
+- Ask me about **DevOps - Kubernetes, Docker, GCP, AWS, Nginx, Apache, CICD, GraphQL**
 
 - Fun fact **It's fun to work on server core, Automate things, etc**
 
